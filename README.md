@@ -1,15 +1,15 @@
-#这是根据 Ultimate Vocal Remover GUI v5.5.1修改而来的汉化版本，请将该支持库中的文件替换原来项目中的文件
+# 这是根据 Ultimate Vocal Remover GUI v5.5.1修改而来的汉化版本，请将该支持库中的文件替换原来项目中的文件
 ##目录结构
 其中gui_data\locales\LC_MESSAGES存放的是汉化包
-##如何切换语言
+# 如何切换语言
 在gui_data\translate.py中修改，注意英语版本可以随便,就是随便找个文件代替即可，因为文件找不到对应翻译时自动返回原文本（注意文件一定要存在，否则报错）
-##如何显示cmd窗口
+# 如何显示cmd窗口
 为了美观，自动隐藏了cmd窗口
 在命令行中使用debug参数，即可
 注意，该项目一定要配合原来项目使用
-##作者：ljs
-##邮箱地址：642599945@qq.com
-##项目原地址：https://github.com/Anjok07/ultimatevocalremovergui
+# 作者：ljs
+# 邮箱地址：642599945@qq.com
+# 项目原地址：https://github.com/Anjok07/ultimatevocalremovergui
 
 
 
