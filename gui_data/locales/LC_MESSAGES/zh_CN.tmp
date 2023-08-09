@@ -1,0 +1,2051 @@
+msgid Select Input
+msgstr 选择输入文件
+
+msgid Select Output  
+msgstr 选择输出文件
+
+msgid Select Input(s)
+msgstr 选择输入  
+
+msgid Widen Box
+msgstr 扩大框
+
+msgid Close Window
+msgstr 关闭窗口
+
+msgid Enable Help Hints
+msgstr 启用帮助提示 
+
+msgid Open Application Directory
+msgstr 打开应用程序目录
+
+msgid Reset All Settings to Default
+msgstr 重置所有设置为默认
+
+msgid Restart Application
+msgstr 重启应用程序
+
+msgid Settings Test Mode
+msgstr 设置测试模式
+
+msgid Model Test Mode
+msgstr 模型测试模式
+
+msgid Generate Model Folders
+msgstr 生成模型文件夹
+
+msgid Accept Any Input 
+msgstr 接受任何输入
+
+msgid Notification Chimes
+msgstr 通知铃声
+
+msgid Normalize Output
+msgstr 标准化输出
+
+msgid VR Arch
+msgstr VR架构
+
+msgid MDX-Net
+msgstr MDX-Net
+
+msgid Demucs  
+msgstr Demucs
+
+msgid Refresh List
+msgstr 刷新列表
+
+msgid Try Manual Download
+msgstr 尝试手动下载 
+
+msgid Enable TTA
+msgstr 启用TTA
+
+msgid Post-Process
+msgstr 后期处理
+
+msgid High-End Process
+msgstr 高端处理
+
+msgid Clear Auto-Set Cache
+msgstr 清除自动设置缓存
+
+msgid Open VR Models Folder
+msgstr 打开VR模型文件夹
+
+msgid Enable Chunks
+msgstr 启用块
+
+msgid Split Mode
+msgstr 拆分模式 
+
+msgid Combine Stems
+msgstr 组合音轨
+
+msgid Spectral Inversion
+msgstr 频谱反转
+
+msgid Mixer Mode
+msgstr 混音器模式
+
+msgid Open Demucs Model Folder
+msgstr 打开Demucs模型文件夹
+
+msgid Save Instrumental Mixture 
+msgstr 保存器乐混音
+
+msgid Activate Pre-process Model
+msgstr 激活预处理模型
+
+msgid Denoise Output
+msgstr 降噪输出
+
+msgid Open MDX-Net Models Folder
+msgstr 打开MDX-Net模型文件夹 
+
+msgid Save All Outputs
+msgstr 保存所有输出
+
+msgid Append Ensemble Name
+msgstr 追加集成名称
+
+msgid UVR License Information 
+msgstr UVR许可证信息  
+
+msgid UVR Change Log
+msgstr UVR变更日志
+ 
+msgid Activate Secondary Model
+msgstr 激活辅助模型
+
+msgid Yes
+msgstr 是
+
+msgid No
+msgstr 否 
+
+msgid Confirm
+msgstr 确认
+
+msgid Cancel 
+msgstr 取消
+
+msgid Support UVR
+msgstr 支持UVR
+
+msgid UVR Patreon Link
+msgstr UVR Patreon链接
+
+msgid UVR \\Buy Me a Coffee\\ Link
+msgstr UVR \\Buy Me a Coffee\\ Link
+
+msgid Back to Main Menu
+msgstr 返回主菜单
+
+msgid Ultimate Vocal Remover (Official GitHub)
+msgstr Ultimate Vocal Remover(GitHub)
+
+msgid X-Minus AI
+msgstr X-Minus AI
+
+msgid MVSep
+msgstr MVSep
+
+msgid FFmpeg
+msgstr FFmpeg
+
+msgid Rubber Band Library
+msgstr Rubber Band库
+
+msgid Official UVR Patreon
+msgstr 官方UVR Patreon
+
+msgid Copy All Text
+msgstr 复制所有文本
+
+msgid Report Issue
+msgstr 报告问题
+ 
+msgid Open Link to Model
+msgstr 打开模型链接
+
+msgid Open Model Directory
+msgstr 打开模型目录
+
+msgid Save
+msgstr 保存
+
+msgid Cancel
+msgstr 取消
+
+msgid Confirm
+msgstr 确认  
+
+msgid OK
+msgstr 确定
+
+msgid CHOOSE PROCESS METHOD
+msgstr 选择处理方法
+
+msgid VR Architecture
+msgstr VR架构
+
+msgid CHOOSE VR MODEL
+msgstr 选择VR模型 
+
+msgid Choose Model
+msgstr 选择模型
+
+msgid WINDOW SIZE
+msgstr 窗口大小
+
+msgid GPU Conversion
+msgstr GPU转换
+
+msgid Primary Stem Only
+msgstr 仅主要音轨
+
+msgid Secondary Stem Only
+msgstr 仅次要音轨 
+
+msgid Sample Mode (30s)
+msgstr 样本模式(30秒)
+
+msgid AGGRESSION SETTING
+msgstr 侵略性设置
+
+msgid SELECT SAVED SETTINGS
+msgstr 选择保存的设置
+
+msgid Choose Option
+msgstr 选择选项
+
+msgid start Processing
+msgstr 开始处理
+
+msgid Default
+msgstr Default
+
+msgid Auto
+msgstr Auto
+
+msgid Save Current Settings
+msgstr 保存当前设置 
+
+msgid Name Settings
+msgstr 命名设置
+
+msgid Input Notes
+msgstr 输入注释 
+
+msgid only letters,numbers,spaces,and dashes allowed
+msgstr 只允许字母、数字、空格和破折号
+
+msgid No dashes or spaces at the start or end of input
+msgstr 输入开头或结尾不能有破折号或空格
+
+msgid Select Music Files
+msgstr 选择音乐文件
+
+msgid Restart Confirmation
+msgstr 重新启动确认
+
+msgid Temp File Deletion
+msgstr 临时文件删除
+
+msgid Copy Help Hint Text
+msgstr 复制帮助提示文本
+
+msgid See All Inputs
+msgstr 查看所有输入 
+
+msgid Error Loading the Following File
+msgstr 加载以下文件时出错
+
+msgid Delete
+msgstr 删除
+
+msgid Copy
+msgstr 复制 
+
+msgid Paste
+msgstr 粘贴
+
+msgid Select Saved Settings
+msgstr 选择保存的设置
+
+msgid Advanced
+msgstr 高级
+
+msgid Settings
+msgstr 设置
+
+msgid Additional Settings
+msgstr 附加设置
+
+msgid RIGHT-CLICK-DELETE ERROR:
+msgstr 右键点击删除错误:
+
+msgid Select All
+msgstr 全选 
+
+msgid Exit Window
+msgstr 退出窗口
+
+msgid Settings Guide
+msgstr 设置指南 
+
+msgid Secondary Model
+msgstr 次要模型
+
+msgid Pre-process Model
+msgstr 预处理模型
+
+msgid Verify Inputs
+msgstr 验证输入
+
+msgid Audio Input Total
+msgstr 音频输入总数
+
+msgid input(s) removed.  
+msgstr 输入已移除。
+
+msgid You cannot remove inputs during an active process.
+msgstr 在活动处理过程中不能移除输入。
+
+msgid Selected Inputs
+msgstr 所选输入
+
+msgid No export directory selected.
+msgstr 未选择导出目录。
+
+msgid Broken or Incompatible File(s) Removed. Check Error Log for details
+msgstr 已移除损坏或不兼容的文件。请查看错误日志获取详情。
+
+msgid No errors found!
+msgstr 未发现错误!
+
+msgid Stop Progress
+msgstr 停止进度
+
+msgid Process Stopped
+msgstr 处理已停止
+
+msgid You cannot verify inputs during an active process
+msgstr 在活动处理过程中不能验证输入。
+
+msgid Remove Selected Items Only
+msgstr 仅移除所选项
+
+msgid Keep Selected Items Only
+msgstr 仅保留所选项
+
+msgid Clear All Input(s)
+msgstr 清除所有输入 
+
+msgid Verify and Create Samples of Selected Inputs
+msgstr 验证并创建所选输入的样本
+
+msgid Preferred Double Click Action
+msgstr 首选双击操作
+
+msgid Enable: Open Audio File Directory
+msgstr 启用:打开音频文件目录
+
+msgid Enable: Open Audio File
+msgstr 启用:打开音频文件
+
+msgid disabled
+msgstr 已禁用
+
+msgid normal 
+msgstr 正常
+
+msgid General Menu
+msgstr 常规菜单
+
+msgid Additional Menus & Information
+msgstr 其他菜单和信息
+
+msgid Enable Help Hints
+msgstr 启用帮助提示
+
+msgid Application Updates
+msgstr 应用更新
+
+msgid Audio Format Settings
+msgstr 音频格式设置
+
+msgid Wav Type
+msgstr Wav 类型
+
+msgid Mp3 Bitrate
+msgstr Mp3 比特率
+
+msgid General Process Settings
+msgstr 常规处理设置
+
+msgid Model Sample Mode Settings
+msgstr 模型样本模式设置
+
+msgid Sample Clip Duration
+msgstr 样本剪辑时长
+
+msgid Delete User Saved Setting
+msgstr 删除用户保存的设置
+
+msgid Application Download Center
+msgstr 应用下载中心
+
+msgid Select Download
+msgstr 选择下载
+
+msgid Stop Download
+msgstr 停止下载
+
+msgid Settings Guide
+msgstr 设置指南
+
+msgid Advanced VR Options
+msgstr 高级VR选项
+
+msgid Aggression Setting
+msgstr 侵略性设置
+
+msgid Window Size
+msgstr 窗口大小 
+
+msgid Batch Size
+msgstr 批量大小
+
+msgid Post-process Threshold
+msgstr 后处理阈值
+
+msgid Segments
+msgstr 段
+
+msgid Shifts
+msgstr 移动量
+
+msgid Overlap
+msgstr 重叠
+
+msgid Chunks
+msgstr 块
+
+msgid Chunk Margin
+msgstr 块边距
+
+msgid Select Model
+msgstr 选择模型
+
+msgid Pre-process Model
+msgstr 预处理模型 
+
+msgid Advanced Demucs Options
+msgstr 高级Demucs选项
+
+msgid Volume Compensation
+msgstr 音量补偿
+
+msgid Advanced MDX-Net Options  
+msgstr 高级MDX-Net选项
+
+msgid Advanced Option Menu
+msgstr 高级选项菜单
+
+msgid Remove Saved Ensemble
+msgstr 删除保存的集成
+
+msgid Credits
+msgstr 鸣谢
+
+msgid Application License & Version Information
+msgstr 应用许可和版本信息
+
+msgid Resources
+msgstr 资源 
+
+msgid Application Change Log
+msgstr 应用变更日志 
+
+msgid Core UVR Developers
+msgstr 核心UVR开发者
+
+msgid Tsurumeso
+msgstr Tsurumeso
+
+msgid Kuielab & Woosung Choi
+msgstr Kuielab和Woosung Choi
+
+msgid Change log unavailable.
+msgstr 无法获取变更日志。 
+
+msgid Error Console
+msgstr 错误控制台
+
+msgid Download Link(s)
+msgstr 下载链接
+
+msgid Manual Downloads
+msgstr 手动下载
+
+msgid Selected Model Placement Path
+msgstr 所选模型的放置路径
+
+msgid Name Settings
+msgstr 设置
+
+msgid InpSave Current Settingsut Notes
+msgstr 保存当前设置
+
+msgid Save Current Settings
+msgstr 保存当前设置
+
+msgid Are you sure you want to continue?\n\nThe application will need to be restarted.\n
+msgstr 您确定要继续吗?\n\n应用程序需要重新启动。\n
+
+msgid Update Found
+msgstr 检测到更新
+
+msgid Download Update in Application
+msgstr 在应用程序中下载更新
+
+msgid Confirm Update
+msgstr 确认更新
+
+msgid User Download Codes
+msgstr 用户下载代码
+
+msgid Download Code
+msgstr 下载代码
+
+msgid Obtain codes by visiting one of the following links below. +\\nFrom there you can donate, pledge,  +\or just obatain the code!\n (Donations are not required to obtain VIP code)
+msgstr 通过访问下面的链接之一来获得代码。\n从那里你可以捐赠,承诺,或者只是获取代码!\n (捐赠不是获得VIP代码的必需条件)
+
+msgid Input Code
+msgstr 输入代码
+
+msgid MDX-Net Model Settings
+msgstr MDX-Net模型设置
+
+msgid Specify MDX-Net Model Parameters
+msgstr 指定MDX-Net模型参数
+
+msgid Primary Stem only
+msgstr 仅主要音轨
+
+msgid (Leave this setting as is if you are unsure.)
+msgstr (如果您不确定,请保留此设置。)
+
+msgid Dim_f
+msgstr Dim_f
+
+msgid N_FFT Scale
+msgstr N_FFT 比例
+
+msgid Specify Parameters
+msgstr 指定参数
+
+msgid Specify VR Model Parameters
+msgstr 指定VR模型参数
+
+msgid Select Model Param
+msgstr 选择模型参数
+
+msgid Choose Model Param
+msgstr 选择模型参数
+
+msgid Input Notes
+msgstr 输入注释
+
+msgid Not Enough Models
+msgstr 模型不足
+
+msgid \n\nProcess stopped by user
+msgstr \n\n进程被用户停止。
+
+msgid You must select 2 or more models to save an ensemble
+msgstr 您必须选择2个或更多模型来保存集成。
+
+msgid Save Current Ensemble
+msgstr 保存当前集成
+
+msgid Ensemble Name
+msgstr 集成名称
+
+msgid center
+msgstr 中心
+
+msgid Loading version information
+msgstr 加载版本信息...
+
+msgid Check for Updates
+msgstr 检查更新
+
+msgid Download List Refreshed
+msgstr 下载列表已刷新!
+
+msgid Click Here to Roll Back
+msgstr 点击这里返回
+
+msgid Click Here to Update
+msgstr 点击这里更新
+
+msgid UVR Version Current
+msgstr UVR 当前版本
+
+msgid Online Data Refresh
+msgstr 在线数据刷新
+
+msgid Refresh
+msgstr 刷新
+
+msgid VIP Models Added
+msgstr 添加VIP模型!
+
+msgid Incorrect Code
+msgstr 错误代码
+
+msgid Code Incorrect
+msgstr 代码错误
+
+msgid Not enough files to process.\n
+msgstr 文件不足以处理。\n
+
+msgid You must select exactly 2 inputs!\n
+msgstr 您必须确切选择2个输入!\n
+
+msgid Process starting
+msgstr 处理开始...
+
+msgid \nProcess complete\n{}
+msgstr \n处理完成\n{}
+
+msgid Time Elapsed
+msgstr 处理时间:
+
+msgid Return to Settings Menu
+msgstr 返回设置菜单
+
+msgid Core UVR Developers
+msgstr 核心 UVR 开发者
+
+msgid Special Thanks
+msgstr 特别鸣谢
+
+msgid Developed the original VR Architecture AI code
+msgstr 开发了原始的 VR 架构 AI 代码。
+
+msgid Developed the original MDX-Net AI code
+msgstr 开发了原始的 MDX-Net AI 代码。
+
+msgid Core developer of Facebook's Demucs Music Source Separation
+msgstr Facebook 的 Demucs 音乐源分离核心开发者。
+
+msgid Designed the official UVR logo, icon, banner, splash screen
+msgstr 设计了官方 UVR 徽标、图标、横幅、启动屏幕。
+
+msgid Your contributions at the start of this project were essential to the success of UVR. Thank you
+msgstr 在项目开始阶段，您的贡献对 UVR 的成功至关重要。谢谢您！
+
+msgid Thank you for the support
+msgstr 感谢您的支持！
+
+msgid You can find updates, report issues, and give us a shout via our official GitHub
+msgstr 您可以通过我们的官方 GitHub 找到更新、报告问题，并与我们联系。
+
+msgid Many of the models provided are also on X-Minus
+msgstr 您可以通过我们的官方 GitHub 找到更新、报告问题，并与我们联系。
+
+msgid X-Minus benefits users without the computing resources to run the GUI or models locally
+msgstr 您可以通过我们的官方 GitHub 找到更新、报告问题，并与我们联系。
+
+msgid Some of our models are also on MVSep
+msgstr 我们的一些模型也在 MVSep 上。
+
+msgid Click the link above for a list of some of the best settings \nand model combinations recorded by fellow UVR users
+msgstr 点击上面的链接查看其他 UVR 用户记录的一些最佳设置和模型组合列表。
+
+msgid If you wish to support and donate to this project, click the link above and become a Patreon
+msgstr 如果您希望支持并捐赠给这个项目，请点击上面的链接并成为 Patreon 赞助人！
+
+msgid Official UVR Patreon
+msgstr 官方 UVR Patreon
+
+msgid You can get more information on it via the link provided
+msgstr 您可以通过提供的链接获取更多信息。
+
+msgid UVR uses the Rubber Band library for the sound stretch and pitch shift tool
+msgstr 您可以通过提供的链接获取更多信息。
+
+msgid If you are missing FFmpeg, please see the installation guide via the link provided
+msgstr 您可以通过提供的链接获取更多信息。
+
+msgid UVR relies on FFmpeg for processing non-wav audio files
+msgstr 您可以通过提供的链接获取更多信息。
+
+msgid UVR License Information 
+msgstr UVR 许可信息
+
+msgid Are you sure you want to continue
+msgstr 您确定要继续吗？
+
+msgid The application will need to be restarted
+msgstr 该应用程序将需要重新启动。
+
+msgid Many of the models provided are also on X-Minus.\n
+msgstr 许多提供的模型也在 X-Minus 上。
+
+msgid Some of our models are also on MVSep.\n
+msgstr 我们的一些模型也在 MVSep 上。
+
+msgid UVR relies on FFmpeg for processing non-wav audio files.\n
+msgstr UVR 依赖于 FFmpeg 处理非 WAV 音频文件。
+
+msgid Many of the models provided are also on X-Minus
+msgstr 提供的许多模型也在X-Minus上。
+
+msgid X-Minus benefits users without the computing resources to run the GUI or models locally
+msgstr X-Minus使没有运行GUI或本地运行模型计算资源的用户受益。
+
+msgid Some of our models are also on MVSep
+msgstr 我们的一些模型也在MVSep上。
+
+msgid Click the link above for a list of some of the best settings and model combinations recorded by fellow UVR users
+msgstr 点击上面的链接,查看由UVR用户记录的一些最佳设置和模型组合的列表
+
+msgid msgid UVR relies on FFmpeg for processing non-wav audio files
+msgstr UVR依赖FFmpeg来处理非wav音频文件。
+
+msgid If you are missing FFmpeg, please see the installation guide via the link provided
+msgstr 如果您缺少FFmpeg,请通过所提供的链接查看安装指南
+
+msgid Rubber Band Library
+Rubber Band 库
+
+msgid UVR uses the Rubber Band library for the sound stretch and pitch shift tool
+msgstr UVR使用Rubber Band库进行声音拉伸和音高转换。
+
+msgid You can get more information on it via the link provided
+msgstr 您可以通过所提供的链接获取更多信息
+
+msgid Official UVR Patreon  
+msgstr 官方UVR Patreon
+
+msgid If you wish to support and donate to this project, click the link above and become a Patreon
+msgstr 如果您希望支持并捐赠给这个项目,请点击上面的链接成为Patreon
+
+msgid UVR License Information
+msgstr UVR 许可证信息
+
+msgid UVR Change Log
+msgstr UVR 更改日志
+
+msgid Loading Saved Variables
+msgstr 加载保存的变量
+
+msgid Download Failed
+msgstr 下载失败
+
+msgid Download Stopped
+msgstr 下载已停止
+
+msgid Download Complete
+msgstr 下载完成
+
+msgid Update Download Complete
+msgstr 更新下载完成
+
+msgid exit
+msgstr 退出
+
+msgid No Internet Connection
+msgstr 没有网络连接
+
+msgid VIP:
+msgstr VIP：
+
+msgid All Available Models Downloaded
+msgstr 所有可用模型已下载
+
+msgid No Model Selected
+msgstr 未选择模型
+
+msgid Downloading Item 1/1...
+msgstr 正在下载项目 1/1...
+
+msgid Downloading Item
+msgstr 正在下载项目
+
+msgid File already exists!
+msgstr 文件已存在！
+
+msgid Downloading Update...
+msgstr 正在下载更新...
+
+msgid Download More Models
+msgstr 下载更多模型
+
+msgid Start Processing
+msgstr 开始处理
+
+msgid Please wait...
+msgstr 请等待...
+
+msgid Halting process, please wait...
+msgstr 停止处理，请等待...
+
+msgid Loading models...
+msgstr 正在加载模型...
+
+msgid is an unrecognized model.\n\n
+msgstr 是一个未识别的模型。\n\n
+
+msgid missing
+msgstr 缺失
+
+msgid present
+msgstr 存在
+
+msgid Unrecognized Model Detected
+msgstr 检测到未识别的模型
+
+msgid Would you like to select the correct parameters before continuing?
+msgstr 是否要在继续之前选择正确的参数？
+
+msgid Confirmation
+msgstr 确认
+
+msgid No Models Selected
+msgstr 未选择模型
+
+msgid File Corrupted
+msgstr 文件损坏
+
+msgid Would you like to remove this ensemble from your list?
+msgstr 是否要从列表中删除此合奏？
+
+msgid Unable to load this ensemble.\n\n
+msgstr 无法加载此合奏。\n\n
+
+msgid Please select ensemble and try again.
+msgstr 请选择合奏并重试。
+
+msgid Loading Saved Variables
+msgstr 加载已保存的变量
+
+msgid Download Stopped
+msgstr 下载停止
+
+msgid No Internet Connection
+msgstr 无网络连接
+
+msgid Save outputs as 
+msgstr 将输出保存为
+
+msgid When enabled, the application will run an additional inference with the selected model(s) above.
+msgstr 启用时，应用程序将使用上面选择的模型进行额外的推理。
+
+msgid Choose the secondary model associated with this stem you wish to run with the current process method.
+msgstr 选择与当前处理方法中要运行的次要模型关联的次要模型。
+
+msgid The scale determines how the final audio outputs will be averaged between the primary and secondary models.
+msgstr 刻度确定主要和次要模型之间的最终音频输出如何平均。
+
+msgid The application will run an inference with the selected model above, pulling only the instrumental stem when enabled.
+msgstr 启用后，应用程序将使用上面选择的模型进行推理，仅提取伴奏音轨。
+
+msgid Allows the user to process only part of a track to sample settings or a model without running a full conversion.
+msgstr 允许用户仅处理音轨的一部分以采样设置或模型，而无需运行完整的转换。
+
+msgid Notes:\n? The number in the parentheses is the current number of seconds the generated sample will be.
+msgstr 注意：\n? 括号中的数字是当前生成的采样的秒数。
+
+msgid You can choose the number of seconds to extract from the track in the \Additional Settings\ menu.
+msgstr 您可以在“附加设置”菜单中选择从音轨中提取的秒数。
+
+msgid Allows the user to control the intensity of the Post_process option.
+msgstr 允许用户控制Post_process选项的强度。
+
+msgid Notes:\n? Higher values potentially remove more artifacts. However, bleed might increase.
+msgstr 注意：\n? 更高的值可能会去除更多的伪音，但可能会增加混音。
+
+msgid Selects the frequency margins to slice the chunks from.
+msgstr 选择频率边缘以从块中切割。
+
+msgid The recommended margin size is 44100.
+msgstr 推荐的边缘大小为44100。
+
+msgid Other values can give unpredictable results.
+msgstr 其他值可能会导致不可预测的结果。
+
+msgid The range is 0-100.
+msgstr 范围是0-100。
+
+msgid Higher values perform deeper extractions.
+msgstr 较高的值进行更深的提取。
+
+msgid The default is 10 for instrumental & vocal models.
+msgstr 默认值为10，适用于乐器和声乐模型。
+
+msgid Values over 10 can result in muddy-sounding instrumentals for the non-vocal models
+msgstr 值大于10可能导致非声乐模型的乐器声音含糊不清
+
+msgid The smaller your window size, the better your conversions will be.
+msgstr 窗口大小越小，转换效果越好。
+
+msgid However, a smaller window means longer conversion times and heavier resource usage.
+msgstr 然而，较小的窗口意味着较长的转换时间和更重的资源使用。
+
+msgid Breakdown of the selectable window size values:
+msgstr 可选择窗口大小值的详细信息：
+
+msgid 1024 - Low conversion quality, shortest conversion time, low resource usage.
+msgstr 1024 - 低转换质量，最短转换时间，低资源使用率。
+
+msgid 512 - Average conversion quality, average conversion time, normal resource usage.
+msgstr 512 - 平均转换质量，平均转换时间，正常资源使用率。
+
+msgid 320 - Better conversion quality.
+msgstr 320 - 更好的转换质量。
+
+msgid The application will create the secondary stem by combining the remaining stems instead of inverting the primary stem with the mixture.
+msgstr 应用程序将通过将其余的音轨组合来创建次要音轨，而不是将主要音轨与混音反转。
+
+msgid Compensates the audio of the primary stems to allow for a better secondary stem.
+msgstr 通过补偿主要音轨的音频，使次要音轨更好。
+
+msgid This option removes a majority of the noise generated by the MDX-Net models.
+msgstr 此选项可以去除MDX-Net模型产生的大部分噪音。
+
+msgid The conversion will take nearly twice as long with this enabled.
+msgstr 启用此选项后，转换将需要近两倍的时间。
+
+msgid Clears any user selected model settings for previously unrecognized models.
+msgstr 清除以前未识别模型的任何用户选择的模型设置。
+
+msgid Enabling this option will keep all individual outputs generated by an ensemble.
+msgstr 启用此选项将保留合奏生成的所有单独输出。
+
+msgid The application will append the ensemble name to the final output when this option is enabled.
+msgstr 启用此选项后，应用程序将在最终输出中附加合奏名称。
+
+msgid Takes the user to an external web-site to donate to this project!
+msgstr 带用户访问外部网站以捐赠此项目！
+
+msgid You must have 2 or more files selected as your inputs. Allows the user to run their tracks through the same algorithms used in Ensemble Mode.
+msgstr 您必须选择2个或更多的文件作为输入。允许用户通过与合奏模式中使用的相同算法处理其音轨。
+
+msgid You must have exactly 2 files selected as your inputs. The second input will be aligned with the first input.
+msgstr 您必须确切地选择2个文件作为输入。第二个输入将与第一个输入对齐。
+
+msgid The user can speed up or slow down the selected inputs.
+msgstr 用户可以加快或减慢选定的输入。
+
+msgid The user can change the pitch for the selected inputs.
+msgstr 用户可以改变选定输入的音调。
+
+msgid When enabled, the application will generate a third output without the selected stem and vocals.
+msgstr 启用时，应用程序将生成一个不带所选音轨和声音的第三个输出。
+
+msgid When enabled, chimes will be heard when a process completes or fails.
+msgstr 启用时，将在进程完成或失败时听到钟声。
+
+msgid Two new directories will be generated for the outputs in the export directory after each conversion.
+msgstr 在每次转换后，输出的导出目录中将生成两个新目录。
+
+msgid First directory - Named after the model.
+msgstr 第一个目录 - 命名为模型名称。
+
+msgid Second directory - Named after the track.
+msgstr 第二个目录 - 命名为音轨名称。
+
+msgid Selects the ensemble algorithm to be used to generate the final output.
+msgstr 选择用于生成最终输出的合奏算法。
+
+msgid Example & Other Note:\n? Max Spec/Min Spec - If this option is chosen, the primary stem outputs will be processed through the 'Max Spec') algorithm, and the secondary stem will be processed through the 'Min Spec') algorithm.
+msgstr 示例和其他说明：\n? Max Spec/Min Spec - 如果选择此选项，主音轨输出将通过'Max Spec'算法进行处理，次要音轨将通过'Min Spec'算法进行处理。
+
+msgid Only a single algorithm will be shown when the '4 Stem Ensemble') option is chosen.
+msgstr 选择'4 Stem Ensemble'选项时，只会显示单个算法。
+
+msgid Algorithm Details:\n? Max Spec - This algorithm combines the final results and generates the highest possible output from them.
+msgstr 算法详情：\n? Max Spec - 此算法将最终结果合并并从中生成可能的最高输出。
+
+msgid For example, if this algorithm were processing vocal stems, you would get the fullest possible result making the ensembled vocal stem sound cleaner. However, it might result in more unwanted artifacts.
+msgstr 例如，如果此算法正在处理声乐音轨，您将获得可能的最完整结果，使合奏的声乐音轨听起来更清洁。但是，可能会导致更多不需要的伪音。
+
+msgid Min Spec - This algorithm combines the results and generates the lowest possible output from them.
+msgstr Min Spec - 此算法将结果合并并从中生成可能的最低输出。
+
+msgid For example, if this algorithm were processing instrumental stems, you would get the cleanest possible result result, eliminating more unwanted artifacts. However, the result might also sound 'muddy') and lack a fuller sound.
+msgstr 例如，如果此算法正在处理乐器音轨，您将获得可能的最干净结果，消除更多不需要的伪音。但是，结果可能还会听起来模糊不清，并且缺少更丰满的声音。
+
+msgid Average - This algorithm simply combines the results and averages all of them together.
+msgstr Average - 此算法仅将结果合并并平均所有结果。
+
+msgid List of the all the models available for the main stem pair selected.
+msgstr 列出所选主音轨对应的所有可用模型。
+
+msgid When checked, the application will attempt to use your GPU (if you have one).
+msgstr 选中后，应用程序将尝试使用您的GPU（如果有）。
+
+msgid If you do not have a GPU but have this checked, the application will default to your CPU.
+msgstr 如果您没有GPU但选中了此选项，应用程序将默认使用您的CPU。
+
+msgid Note: CPU conversions are much slower than those processed through the GPU.
+msgstr 注意：与通过GPU处理的转换相比，CPU转换要慢得多。
+
+msgid Allows the user to save only the selected stem.
+msgstr 允许用户仅保存所选的音轨。
+
+msgid Normalizes output to prevent clipping.
+msgstr 将输出进行归一化以防止削波。
+
+msgid **Only compatible with select models only!**
+msgstr **仅与特定模型兼容！**
+
+msgid Setting should match training crop-size value. Leave as is if unsure.
+msgstr 设置应与训练裁剪大小值匹配。如果不确定，请保持不变。
+
+msgid Note: Having this selected will increase the time it takes to complete a conversion
+msgstr 注意：选择此选项将增加完成转换所需的时间
+
+msgid Note: Selecting this option can adversely affect the conversion process, depending on the track. Because of this, it is only recommended as a last resort.
+msgstr 注意：选择此选项可能会对转换过程产生不利影响，这取决于音轨。因此，只建议作为最后的选择。
+
+msgid The application will mirror the missing frequency range of the output.
+msgstr 应用程序将镜像输出的缺失频率范围。
+
+msgid Performs multiple predictions with random shifts of the input and averages them.
+msgstr 使用输入的随机偏移执行多次预测并对其进行平均。
+
+msgid The higher number of shifts, the longer the prediction will take.
+msgstr 偏移数量越多，预测所需的时间就越长。
+
+msgid Not recommended unless you have a GPU.
+msgstr 除非您有GPU，否则不建议使用。
+
+msgid This option controls the amount of overlap between prediction windows (for Demucs one window is 10 seconds)
+msgstr 此选项控制预测窗口之间的重叠量（对于Demucs，一个窗口为10秒）
+
+msgid Enables \Chunks\.
+msgstr 启用“块”。
+
+msgid We recommend you not enable this option with \Split Mode\ enabled or with the Demucs v4 Models.
+msgstr 我们建议您不要在启用“分割模式”或使用Demucs v4模型时启用此选项。
+
+msgid Using this option for MDX-Net no longer effects RAM usage.
+msgstr 对于MDX-Net，使用此选项不再影响RAM使用情况。
+
+msgid Having this enabled will effect output quality, for better or worse depending on the set value.
+msgstr 启用此选项将影响输出质量，根据设置值的不同，可能会好坏参半。
+
+msgid Enables \Segments\.
+msgstr 启用“段”。
+
+msgid We recommend you not enable this option with \Enable Chunks\.
+msgstr 我们建议您不要在启用“块”时启用此选项。
+
+msgid Deselecting this option is only recommended for those with powerful PCs or if using \Chunk\ mode instead.
+msgstr 只建议强大的个人电脑用户在使用“块”模式时取消选择此选项。
+
+msgid The application will accept any input when enabled, even if it does not have an audio format extension.
+msgstr 启用后，应用程序将接受任何输入，即使没有音频格式扩展名也可以。
+
+msgid This is for experimental purposes, and having it enabled is not recommended.
+msgstr 这仅用于实验目的，不建议启用。
+
+msgid When enabled, chimes will be heard when a process completes or fails.
+msgstr 启用后，进程完成或失败时会听到钟声。
+
+msgid Two new directories will be generated for the outputs in the export directory after each conversion.
+msgstr 在每次转换后，输出文件将在导出目录中生成两个新目录。
+
+msgid First directory - Named after the model.
+msgstr 第一个目录 - 以模型名称命名。
+
+msgid Second directory - Named after the track.
+msgstr 第二个目录 - 以音轨名称命名。
+
+msgid Example:\nExport Directory\n└── First Directory\n    └── Second Directory\n         └── Output File(s)
+msgstr 示例：\n导出目录\n└── 第一个目录\n    └── 第二个目录\n         └── 输出文件
+
+msgid This menu contains your saved settings. You will be asked to confirm if you wish to delete the selected setting.
+msgstr 此菜单包含您保存的设置。如果您希望删除所选设置，将会询问您确认。
+
+msgid Choose the primary stem for the selected model.
+msgstr 选择所选模型的主音轨。
+
+msgid Set the N_FFT size the model was trained with.
+msgstr 设置模型的N_FFT大小（模型的训练过程中使用的FFT尺寸）。
+
+msgid Choose the appropriate volume compensation for the selected model.
+msgstr 选择所选模型的适当音量补偿。
+
+msgid Reminder: Compensates the audio of the primary stems to allow for a better secondary stem.
+msgstr 提醒：对主音轨的音频进行补偿，以便获得更好的次要音轨。
+
+msgid Choose the parameters needed to run the selected model.
+msgstr 选择运行所选模型所需的参数。
+
+msgid Select saved ensemble or save current ensemble.
+msgstr 选择保存的合奏或保存当前合奏。
+
+msgid Default Selections:\nSave the current ensemble.\nClears all current model selections.
+msgstr 默认选择：\n保存当前合奏。\n清除所有当前模型选择。
+
+msgid Here, you choose between different AI networks and algorithms to process your track.
+msgstr 在这里，您可以在不同的AI网络和算法之间选择来处理您的音轨。
+
+msgid There are five options:\nVR Architecture - These models use magnitude spectrograms for Source Separation.
+msgstr 有五个选项：\nVR Architecture - 这些模型使用幅度谱图进行源分离。
+
+msgid MDX-Net - These models use Hybrid Spectrogram/Waveform for Source Separation.
+msgstr MDX-Net - 这些模型使用混合谱图/波形进行源分离。
+
+msgid Demucs v3 - These models use Hybrid Spectrogram/Waveform for Source Separation.
+msgstr Demucs v3 - 这些模型使用混合谱图/波形进行源分离。
+
+msgid Ensemble Mode - Here, you can get the best results from multiple models and networks.
+msgstr 合奏模式 - 在这里，您可以从多个模型和网络中获得最佳结果。
+
+msgid Audio Tools - These are additional tools for added convenience.
+msgstr 音频工具 - 这些是额外的工具，增加了方便性。
+
+msgid Select Input:\nHere is where you select the audio files(s) you wish to process.
+msgstr 选择输入：\n在这里，您可以选择要处理的音频文件。
+
+msgid Input Option Menu:\nClick here to access the input option menu.
+msgstr 输入选项菜单：\n点击此处访问输入选项菜单。
+
+msgid Select Output:\nHere is where you select the directory where your processed files are to be saved.
+msgstr 选择输出：\n在这里，您可以选择保存处理后文件的目录。
+
+msgid Open Input Folder Button: \nOpens the directory containing the selected input audio file(s).
+msgstr 打开输入文件夹按钮：\n打开包含所选输入音频文件的目录。
+
+msgid Open Output Folder Button: \nOpens the selected output folder.
+msgstr 打开输出文件夹按钮：\n打开所选的输出文件夹。
+
+msgid Each process method comes with its own set of options and models.
+msgstr 每种处理方法都有自己的一组选项和模型。
+
+msgid Here is where you choose the model associated with the selected process method.
+msgstr 在这里，您可以选择与所选处理方法相关联的模型。
+
+msgid Save outputs as
+msgstr 将输出保存为
+
+msgid When enabled, the application will run an additional inference with the selected model(s) above.
+msgstr 启用后，应用程序将使用上面选择的模型运行附加的推理。
+
+msgid Choose the secondary model associated with this stem you wish to run with the current process method.
+msgstr 选择与您希望使用当前处理方法运行的音轨相关联的次要模型。
+
+msgid The scale determines how the final audio outputs will be averaged between the primary and secondary models.
+msgstr 比例决定了主要模型和次要模型之间的最终音频输出将如何平均。
+
+msgid For example:\n10% - 10 percent of the main model result will be factored into the final result.
+msgstr 例如：\n10％ - 主要模型结果的10％将计入最终结果。
+
+msgid 50% - The results from the main and secondary models will be averaged evenly.
+msgstr 50％ - 主要模型和次要模型的结果将均匀平均。
+
+msgid 90% - 90 percent of the main model result will be factored into the final result.
+msgstr 90％ - 主要模型结果的90％将计入最终结果。
+
+msgid The scale can be adjusted in increments of 10%.
+msgstr 比例可以每次调整10%。
+
+msgid Ensemble Mode Settings:\nYou can choose the ensemble algorithm for generating the final output.
+msgstr 合奏模式设置：\n您可以选择用于生成最终输出的合奏算法。
+
+msgid Example & Other Note:\nIf you choose 'Max Spec/Min Spec', the primary stem outputs will be processed through the 'Max Spec' algorithm, and the secondary stem will be processed through the 'Min Spec' algorithm.
+msgstr 示例和其他说明：\n如果选择'Max Spec/Min Spec'，主音轨输出将通过'Max Spec'算法进行处理，次要音轨将通过'Min Spec'算法进行处理。
+
+msgid Only a single algorithm will be shown when the '4 Stem Ensemble' option is chosen.
+msgstr 选择'4 Stem Ensemble'选项时，只会显示单个算法。
+
+msgid For example, if this algorithm were processing instrumental stems, you would get the cleanest possible result, eliminating more unwanted artifacts. However, the result might also sound 'muddy' and lack a fuller sound.
+msgstr 例如，如果此算法正在处理乐器音轨，您将获得可能的最干净结果，消除更多不需要的伪音。但是，结果可能还会听起来模糊不清，并且缺少更丰满的声音。
+
+msgid List of all the models available for the main stem pair selected.
+msgstr 列出所选主音轨对应的所有可用模型。
+
+msgid Setting should match the training crop-size value. Leave as is if unsure.
+msgstr 设置应与训练裁剪大小值匹配。如果不确定，请保持不变。
+
+msgid Note: Having this selected will increase the time it takes to complete a conversion.
+msgstr 注意：选择此选项将增加完成转换所需的时间。
+
+msgid This option controls the amount of overlap between prediction windows (for Demucs one window is 10 seconds).
+msgstr 此选项控制预测窗口之间的重叠量（对于Demucs，一个窗口为10秒）。
+
+msgid Using this option for MDX-Net no longer affects RAM usage.
+msgstr 对于MDX-Net，使用此选项不再影响RAM使用情况。
+
+msgid Having this enabled will affect output quality, for better or worse depending on the set value.
+msgstr 启用此选项将影响输出质量，根据设置值的不同，可能会好坏参半。
+
+msgid Deselecting this option is only recommended for those with powerful PCs or if using \Chunk\ mode instead.
+msgstr 只建议强大的个人电脑用户在使用“块”模式时
+
+msgid You are about to stop all active processes.
+msgstr 您即将停止所有活动进程。
+
+msgid Are you sure you wish to continue?
+msgstr 您确定要继续吗？
+
+msgid Confirm Removal
+msgstr 确认删除
+
+msgid Are you sure you want to remove this entry?
+msgstr 您确定要删除此条目吗？
+
+msgid All Stems
+msgstr 全部音轨
+
+msgid Vocals
+msgstr 声乐
+
+msgid Instrumental
+msgstr 乐器
+
+msgid Other
+msgstr 其他
+
+msgid Bass
+msgstr 低音
+
+msgid Drums
+msgstr 鼓
+
+msgid Guitar
+msgstr 吉他
+
+msgid Piano
+msgstr 钢琴
+
+msgid Synthesizer
+msgstr 合成器
+
+msgid Strings
+msgstr 弦乐
+
+msgid Woodwinds
+msgstr 木管乐器
+
+msgid Brass
+msgstr 铜管乐器
+
+msgid Wind Inst
+msgstr 风管乐器
+
+msgid No Other
+msgstr 无其他
+
+msgid No Bass
+msgstr 无低音
+
+msgid No Drums
+msgstr 无鼓
+
+msgid No Guitar
+msgstr 无吉他
+
+msgid No Piano
+msgstr 无钢琴
+
+msgid No Synthesizer
+msgstr 无合成器
+
+msgid No Strings
+msgstr 无弦乐
+
+msgid No Woodwinds
+msgstr 无木管乐器
+
+msgid No Wind Inst
+msgstr 无铜管乐器
+
+msgid No Brass
+msgstr 无铜管乐器
+
+msgid Secondary Stem Only
+msgstr 次要音轨
+
+msgid instrumental
+msgstr 乐器
+
+msgid vocals
+msgstr 声乐
+
+msgid drums
+msgstr 鼓
+
+msgid bass
+msgstr 低音
+
+msgid other
+msgstr 其他
+
+msgid UVR_Model
+msgstr UVR模型
+
+msgid Choose Stem Pair
+msgstr 选择音轨对
+
+msgid 4 Stem Ensemble
+msgstr 4个音轨合奏
+
+msgid Min Spec
+msgstr 最小规格
+
+msgid Max Spec
+msgstr 最大规格
+
+msgid Average
+msgstr 平均
+
+msgid Full
+msgstr 完整
+
+msgid Audio Tools
+msgstr 音频工具
+
+msgid Manual Ensemble
+msgstr 手动合奏
+
+msgid Time Stretch
+msgstr 时间拉伸
+
+msgid Change Pitch
+msgstr 音高转换
+
+msgid Align Inputs
+msgstr 输入对齐
+
+msgid Save Ensemble
+msgstr 保存合奏
+
+msgid Clear Selection(s)
+msgstr 清除选择
+
+msgid Invalid Input, Please Try Again
+msgstr 无效输入，请重试
+
+msgid 1. Only letters, numbers, spaces, and dashes allowed.
+msgstr 1. 只允许字母、数字、空格和短划线。
+
+msgid 2. No dashes or spaces at the start or end of input.
+msgstr 2. 输入不能以短划线或空格开头或结尾。
+
+msgid ensemble check
+msgstr 合奏检查
+
+msgid Select Saved Ensemble
+msgstr 选择已保存的合奏
+
+msgid Ensemble Customization Options
+msgstr 合奏定制选项
+
+msgid Open Information Guide
+msgstr 打开信息指南
+
+msgid Open Error Log
+msgstr 打开错误日志
+
+msgid Verifying file
+msgstr 验证文件
+
+msgid Creating Sample
+msgstr 创建样本
+
+msgid Model Missing:
+msgstr 模型缺失：
+
+msgid : Playing
+msgstr ：播放中
+
+msgid : Paused
+msgstr ：暂停
+
+msgid : Stopped
+msgstr ：停止
+
+msgid Selected
+msgstr 已选择
+
+msgid Detected
+msgstr 已检测
+
+msgid Reset to Default
+msgstr 恢复为默认设置
+
+msgid Reset All Application Settings to Default
+msgstr 将所有应用程序设置恢复为默认设置
+
+msgid Load for VR Arch
+msgstr 为VR Architecture加载
+
+msgid Load for MDX-Net
+msgstr 为MDX-Net加载
+
+msgid Load for Demucs
+msgstr 为Demucs加载
+
+msgid Load for Full Application
+msgstr 为完整应用程序加载
+
+msgid Invalid Input
+msgstr 无效输入
+
+msgid The input is invalid. Please verify the input still exists or is valid and try again.
+msgstr 输入无效。请确认输入是否仍然存在或有效，并重试。
+
+msgid Invalid Export Directory
+msgstr 无效导出目录
+
+msgid You have selected an invalid export directory. Please make sure the selected directory still exists.
+msgstr 您选择了无效的导出目录。请确保所选目录仍然存在。
+
+msgid No Model Chosen
+msgstr 未选择模型
+
+msgid You must select a model to continue.
+msgstr 您必须选择一个模型才能继续。
+
+msgid Model Missing
+msgstr 模型缺失
+
+msgid The selected model is missing or not valid.
+msgstr 所选的模型丢失或无效。
+
+msgid Error Occured
+msgstr 发生错误
+
+msgid Would you like to open the error log for more details?
+msgstr 是否希望打开错误日志以获取更多详细信息？
+
+msgid Internal model attribute.
+msgstr 内部模型属性。
+
+msgid Do not change this setting if you are unsure!
+msgstr 如果不确定，请勿更改此设置！
+
+msgid Halts any running processes. A pop-up window will ask the user to confirm the action.
+msgstr 停止所有运行中的进程。弹出窗口将询问用户确认操作。
+
+msgid Opens the main settings guide. This window includes the Download Center
+msgstr 打开主要设置指南。此窗口包括“下载中心”。
+
+msgid Provides information on the progress of the current process.
+msgstr 提供当前进程的进度信息。
+
+msgid Allows the user to open any saved settings or save the current application settings.
+msgstr 允许用户打开任何已保存的设置或保存当前应用程序设置。
+
+msgid For MDX-Net, all values use the same amount of resources. Using chunks is no longer recommended.
+msgstr 对于MDX-Net，所有值使用相同数量的资源。不再建议使用块。
+
+msgid This option is now only for output quality.
+msgstr 此选项现在仅用于输出质量。
+
+msgid Some tracks may fare better depending on the value.
+msgstr 根据值的不同，某些音轨可能表现得更好。
+
+msgid Some tracks may fare worse depending on the value.
+msgstr 根据值的不同，某些音轨可能表现得更差。
+
+msgid Larger chunk sizes use will take less time to process.
+msgstr 较大的块大小需要更少的处理时间。
+
+msgid Smaller chunk sizes use will take more time to process.
+msgstr 较小的块大小需要更多的处理时间。
+
+msgid This option allows the user to reduce (or increase) RAM or V-RAM usage.
+msgstr 此选项允许用户减少（或增加）RAM或V-RAM的使用。
+
+msgid Smaller chunk sizes use less RAM or V-RAM but can also increase processing times.
+msgstr 较小的块大小使用较少的RAM或V-RAM，但也可能增加处理时间。
+
+msgid Larger chunk sizes use more RAM or V-RAM but can also reduce processing times.
+msgstr 较大的块大小使用更多的RAM或V-RAM，但也可能减少处理时间。
+
+msgid Selecting \Auto\ calculates an appropriate chuck size based on how much RAM or V-RAM your system has.
+msgstr 选择“自动”会根据您的系统具有多少RAM或V-RAM来计算合适的块大小。
+
+msgid Selecting \Full\ will process the track as one whole chunk. (not recommended)
+msgstr 选择“全局”将将曲目作为一个整块处理。（不建议）
+
+msgid The default selection is \Auto\.
+msgstr 默认选择是“自动”。
+
+msgid Selects the frequency margins to slice the chunks from.
+msgstr 选择频率边缘以从块中切片。
+
+msgid The recommended margin size is 44100.
+msgstr 推荐的边缘大小是44100。
+
+msgid Other values can give unpredictable results.
+msgstr 其他值可能会产生不可预测的结果。
+
+msgid The smaller your window size, the better your conversions will be. However, a smaller window means longer conversion times and heavier resource usage.
+msgstr 窗口大小越小，转换效果越好。然而，较小的窗口意味着较长的转换时间和更重的资源使用。
+
+msgid Here, you can choose which stem to extract using the selected model.
+msgstr 在这里，您可以选择使用所选模型提取哪个音轨。
+
+msgid Stem Selections:
+msgstr 音轨选择：
+
+msgid All Stems - Saves all of the stems the model is able to extract.
+msgstr 全部音轨-保存模型能够提取的所有音轨。
+
+msgid Vocals - Pulls vocal stem only.
+msgstr 声乐-仅提取声乐音轨。
+
+msgid Other - Pulls other stem only.
+msgstr 其他-仅提取其他音轨。
+
+msgid Bass - Pulls bass stem only.
+msgstr 低音-仅提取低音音轨。
+
+msgid Drums - Pulls drum stem only.
+msgstr 鼓-仅提取鼓音轨。
+
+msgid Smaller segment sizes use less RAM or V-RAM but can also increase processing times.
+msgstr 较小的片段大小使用较少的RAM或V-RAM，但也可能增加处理时间。
+
+msgid Larger segment sizes use more RAM or V-RAM but can also reduce processing times.
+msgstr 较大的片段大小使用更多的RAM或V-RAM，但也可能减少处理时间。
+
+msgid Selecting \Default\ uses the recommended segment size.
+msgstr 选择“默认”使用推荐的片段大小。
+
+msgid It is recommended that you not use segments with \Chunking\.
+msgstr 建议不要在“块处理”中使用片段。
+
+msgid Allows the user to select the type of stems they wish to ensemble.
+msgstr 允许用户选择希望合奏的音轨类型。
+
+msgid Options:
+msgstr 选项：
+
+msgid Vocals/Instrumental - The primary stem will be the vocals and the secondary stem will be the instrumental
+msgstr 声乐/乐器-主音轨将是声乐，次音轨将是乐器
+
+msgid Other/No Other - The primary stem will be other and the secondary stem will be no other (the mixture without the 'other') stem)
+msgstr 其他/无其他-主音轨将是其他音轨，次音轨将是无其他音轨（没有其他音轨的混音）
+
+msgid Bass/No Bass - The primary stem will be bass and the secondary stem will be no bass (the mixture without the 'bass') stem)
+msgstr 低音/无低音-主音轨将是低音，次音轨将是无低音音轨（没有低音音轨的混音）
+
+msgid Drums/No Drums - The primary stem will be drums and the secondary stem will be no drums (the mixture without the 'drums') stem)
+msgstr 鼓/无鼓-主音轨将是鼓，次音轨将是无鼓音轨（没有鼓音轨的混音）
+
+msgid 4 Stem Ensemble - This option will gather all the 4 stem Demucs models and ensemble all of the outputs.
+msgstr 4音轨合奏-此选项将收集所有4音轨Demucs模型并合奏所有输出。
+
+msgid Allows the user to select the ensemble algorithm to be used to generate the final output.
+msgstr 允许用户选择用于生成最终输出的合奏算法。
+
+msgid Example & Other Note:
+msgstr 示例和其他说明：
+
+msgid Only a single algorithm will be shown when the '4 Stem Ensemble') option is chosen.
+msgstr 选择'4音轨合奏'选项时，只会显示一个算法。
+
+msgid Algorithm Details:
+msgstr 算法细节：
+
+msgid Max Spec - This algorithm combines the final results and generates the highest possible output from them.
+msgstr Max Spec-此算法将最终结果组合在一起，并从中生成最高可能的输出。
+
+msgid For example, if this algorithm were processing vocal stems, you would get the fullest possible result making the ensembled vocal stem sound cleaner. However, it might result in more unwanted artifacts.
+msgstr 例如，如果该算法处理声乐音轨，您将获得最完整的结果，使合奏的声乐音轨听起来更清晰。然而，可能会导致更多不需要的伪音。
+
+msgid Min Spec - This algorithm combines the results and generates the lowest possible output from them.
+msgstr Min Spec-此算法将结果组合在一起，并从中生成最低可能的输出。
+
+msgid For example, if this algorithm were processing instrumental stems, you would get the cleanest possible result, eliminating more unwanted artifacts. However, the result might also sound 'muddy') and lack a fuller sound.
+msgstr 例如，如果该算法处理乐器音轨，您将获得最干净的结果，消除更多不需要的伪音。然而，结果可能也听起来很'混沌'，缺少更丰满的声音。
+
+msgid **Only compatible with select models only!**
+msgstr **仅与部分模型兼容！**
+
+msgid Setting should match training crop-size value. Leave as is if unsure.
+msgstr 设置应与训练裁剪尺寸的值相匹配。如果不确定，请保持不变。
+
+msgid The higher number of shifts, the longer the prediction will take.
+msgstr 迭代次数越多，预测时间越长。
+
+msgid - Not recommended unless you have a GPU.
+msgstr - 不建议除非您有GPU。
+
+msgid Enables \Chunks\.
+msgstr 启用“块处理”。
+
+msgid We recommend you not enable this option with \Split Mode\ enabled or with the Demucs v4 Models.
+msgstr 我们建议您不要在启用“拆分模式”或使用Demucs v4模型时启用此选项。
+
+msgid Having this enabled will effect output quality, for better or worse depending on the set value.
+msgstr 启用此选项将影响输出质量，效果取决于设置的值。
+
+msgid Enables \Segments\.
+msgstr 启用“片段”。
+
+msgid We recommend you not enable this option with \Enable Chunks\.
+msgstr 我们建议您不要在启用“块处理”时启用此选项。
+
+msgid This option removes a majority of the noise generated by the MDX-Net models.
+msgstr 此选项会消除MDX-Net模型产生的大部分噪音。
+
+msgid The conversion will take nearly twice as long with this enabled.
+msgstr 启用此选项后，转换时间将增加近一倍。
+
+msgid This option may produce a better secondary stem.
+msgstr 此选项可能产生更好的次音轨。
+
+msgid Inverts primary stem with mixture using spectrograms instead of waveforms.
+msgstr 使用频谱图而不是波形来反转主音轨和混音。
+
+msgid This inversion method is slightly slower.
+msgstr 此反转方法稍慢。
+
+msgid This option may improve separations for outputs from 4-stem models.
+msgstr 此选项可能改善4音轨模型的输出分离效果。
+
+msgid Might produce more noise.
+msgstr 可能会产生更多噪音。
+
+msgid This option might slow down separation time.
+msgstr 此选项可能会减慢分离时间。
+
+msgid Appends a unique 10 digit number to output files so the user can compare results with different settings.
+msgstr 向输出文件附加一个唯一的10位数字，以便用户可以将结果与不同的设置进行比较。
+
+msgid Appends the model name to output files so the user can compare results with different settings.
+msgstr 向输出文件附加模型名称，以便用户可以将结果与不同的设置进行比较。
+
+msgid The application will accept any input when enabled, even if it does not have an audio format extension.
+msgstr 启用时，应用程序将接受任何输入，即使没有音频格式扩展名。
+
+msgid This is for experimental purposes, and having it enabled is not recommended.
+msgstr 这是为了实验目的，不建议启用它。
+
+msgid Example:
+msgstr 示例：
+
+msgid ─ Export Directory
+msgstr ─ 导出目录
+
+msgid )   └── First Directory
+msgstr )   └── 第一个目录
+
+msgid )           └── Second Directory
+msgstr )           └── 第二个目录
+
+msgid )                    └── Output File(s)
+msgstr )                    └── 输出文件
+
+msgid Choose the appropriate volume compensation for the selected model
+msgstr 选择适合所选模型的音量补偿
+
+msgid Reminder: \通过补偿主要音轨的音频，使次要音轨更好。\
+msgstr 提示：\通过补偿主要音轨的音频，使次要音轨更好。\
+
+msgid ensemble or save current ensemble.
+msgstr 选择保存的合奏或保存当前的合奏。
+
+msgid Default Selections:
+msgstr 默认选择：
+
+msgid ? Save the current ensemble.
+msgstr ? 保存当前的合奏。
+
+msgid ? Clears all current model selections.
+msgstr ? 清除所有当前的模型选择。
+
+msgid There are five options:
+msgstr 有五个选项：
+
+msgid ? VR Architecture - These models use magnitude spectrograms for Source Separation.
+msgstr ? VR体系结构-这些模型使用幅度频谱图进行源分离。
+
+msgid Each process method comes with its own set of options and models.
+msgstr 每种处理方法都配有自己的选项和模型。
+
+msgid The application will run an inference with the selected model above, pulling only the instrumental stem when enabled.
+msgstr 应用程序将在上面选择的模型上运行推理，仅在启用时拉出伴奏音轨。
+
+msgid From there, all of the non-vocal stems will be pulled from the generated instrumental.
+msgstr 从那里，所有非声乐音轨将从生成的伴奏音轨中拉出。
+
+msgid Notes:
+msgstr 注意：
+
+msgid ? This option can significantly reduce vocal bleed within the non-vocal stems.
+msgstr ? 此选项可大大减少非声乐音轨中的声乐混泄。
+
+msgid ? It is only available in Demucs.
+msgstr ? 它仅在Demucs中可用。
+
+msgid ? It is only compatible with non-vocal and non-instrumental stem outputs.
+msgstr ? 它仅与非声乐和非乐器音轨输出兼容。
+
+msgid ? This will increase the total processing time.
+msgstr ? 这将增加总处理时间。
+
+msgid ? Only VR and MDX-Net Vocal or Instrumental models are selectable above.
+msgstr ? 上面只有VR和MDX-Net声乐或乐器模型可选。
+
+msgid Here, you choose between different audio tools to process your track.
+msgstr 在这里，您可以选择不同的音频工具来处理音轨。
+
+msgid ? Time Stretch - The user can speed up or slow down the selected inputs.
+msgstr ? 时间拉伸-用户可以加速或减慢所选输入。
+
+msgid ? Change Pitch - The user can change the pitch for the selected inputs.
+msgstr ? 变调-用户可以更改所选输入的音高。
+
+msgid \注意：\n? 更高的值可能会去除更多的伪音，但可能会增加混音。\
+msgstr \注意：\n? 更高的值可能会去除更多的伪音，但可能会增加混音。\
+
+msgid ? Lower values limit artifact removal.
+msgstr ? 较低的值限制伪音去除。
+
+msgid Specify the number of batches to be processed at a time.
+msgstr 指定一次处理的批次数。
+
+msgid ? Higher values mean more RAM usage but slightly faster processing times.
+msgstr ? 较高的值意味着更多的RAM使用，但处理时间稍快。
+
+msgid ? Lower values mean less RAM usage but slightly longer processing times.
+msgstr ? 较低的值意味着更少的RAM使用，但处理时间稍长。
+
+msgid ? Batch size value has no effect on output quality.
+msgstr ? 批次大小对输出质量没有影响。
+
+msgid Insufficient Storage
+msgstr 存储空间不足
+
+msgid There is not enough storage on the main drive to continue. Your main drive must have at least 3 GB's of storage to function properly with this application.
+msgstr 主驱动器上的存储空间不足，无法继续。您的主驱动器必须至少有3 GB的存储空间才能正常使用此应用程序。
+
+msgid Please ensure your main drive has at least 3 GB's of storage and try again.
+msgstr 请确保您的主驱动器至少有3 GB的存储空间，然后重试。
+
+msgid Available Storage Low
+msgstr 可用存储空间较低
+
+msgid Your main drive is running low on storage. Your main drive must have at least 3 GB's of storage to function properly with this application.
+msgstr 您的主驱动器存储空间较低。您的主驱动器必须至少有3 GB的存储空间才能正常使用此应用程序。
+
+msgid Process failed, please see the error log
+msgstr 处理失败，请查看错误日志
+
+msgid Active Process
+msgstr 活动进程
+
+msgid Please stop the active process or wait for it to complete before you exit.
+msgstr 请在退出之前停止活动进程或等待它完成。
+
+msgid Halting Process
+msgstr 正在停止进程
+
+msgid Please wait for the application to finish halting the process before exiting.
+msgstr 请在退出之前等待应用程序完成停止进程。
+
+msgid You cannot reset all of the application settings during an active process.
+msgstr 在活动进程中，您无法重置所有应用程序设置。
+
+msgid You cannot reset the application settings during an active process.
+msgstr 在活动进程中，您无法重置应用程序设置。
+
+msgid Reset Settings Confirmation
+msgstr 重置设置确认
+
+msgid All application settings will be set to factory default.
+msgstr 所有应用程序设置将恢复为出厂默认设置。
+
+msgid Invalid Model
+msgstr 无效的模型
+
+msgid The file selected is not a valid MDX-Net model. Please see the error log for more information.
+msgstr 所选文件不是有效的MDX-Net模型。有关详细信息，请查看错误日志。
+
+msgid Running inference...
+msgstr 正在运行推理...
+
+secondary model）...
+
+msgid Running inference (pre-process model)...
+msgstr 正在运行推理（预处理模型）...
+
+msgid Loading cached secondary model source(s)... Done!
+msgstr 正在加载缓存的次要模型源...完成！
+
+msgid Model cache loaded.
+msgstr 模型缓存已加载。
+
+msgid Inference complete.
+msgstr 推理完成。
+
+msgid Saving stem...
+msgstr 保存音轨...
+
+msgid Saving all stems...
+msgstr 保存所有音轨...
+
+msgid Ensembling outputs...
+msgstr 合奏输出...
+
+msgid Done!
+msgstr 完成！
+
+msgid Ensembled outputs saved!
+msgstr 已保存合奏输出！
+
+msgid CHOOSE MDX-NET MODEL
+msgstr 选择MDX-NET模型
+
+msgid BATCH SIZE
+msgstr 批次大小
+
+msgid VOLUME COMPENSATION
+msgstr 音量补偿
+
+msgid CHOOSE DEMUCS MODEL
+msgstr 选择Demucs模型
+
+msgid CHOOSE STEM(S)
+msgstr 选择音轨
+
+msgid SEGMENT
+msgstr 分段
+
+msgid ENSEMBLE OPTIONS
+msgstr 合奏选项
+
+msgid MAIN STEM PAIR
+msgstr 主要音轨对
+
+msgid ENSEMBLE ALGORITHM
+msgstr 合奏算法
+
+msgid AVAILABLE MODELS
+msgstr 可用模型
+
+msgid CHOOSE AUDIO TOOL
+msgstr 选择音频工具
+
+msgid CHOOSE ALGORITHM
+msgstr 选择算法
+
+msgid RATE
+msgstr 速率
+
+msgid SEMITONES
+msgstr 半音
+
+
+msgid You are about to stop all active processes.\n\nAre you sure you wish to continue?
+msgstr 您即将停止所有活动进程。\n\n您确定要继续吗？
+
+msgid All Stems
+msgstr 所有音轨
+
+msgid Instrumental
+msgstr 伴奏
+
+msgid Bass
+msgstr 贝斯
+
+msgid Strings
+msgstr 弦乐器
+
+msgid Wind Inst
+msgstr 管乐器
+
+msgid No Bass
+msgstr 无贝斯
+
+msgid No Strings
+msgstr 无弦乐器
+
+msgid No Wind Inst
+msgstr 无管乐器
+
+msgid instrumental
+msgstr 伴奏
+
+msgid bass
+msgstr 贝斯
+
+msgid UVR_Model
+msgstr UVR_Model
+
+msgid 4 Stem Ensemble
+msgstr 四音轨合奏
+
+msgid Change Pitch
+msgstr 变调
+
+msgid Align Inputs
+msgstr 对齐输入
+
+msgid 1. Only letters, numbers, spaces, and dashes allowed.
+msgstr 1. 仅允许字母、数字、空格和破折号。
+
+msgid 2. No dashes or spaces at the start or end of input.
+msgstr 2. 输入的开头或结尾不能有破折号或空格。
+
+msgid Ensemble Customization Options
+msgstr 合奏自定义选项
+
+msgid Model Missing:
+msgstr 缺少模型：
+
+msgid : Playing
+msgstr : 正在播放
+
+msgid : Paused
+msgstr : 暂停
+
+msgid : Stopped
+msgstr : 已停止
+
+msgid Selected
+msgstr 已选
+
+msgid Reset to Default
+msgstr 重置为默认值
+
+msgid is an unrecognized model.
+msgstr 是一个未识别的模型。
+
+msgid Internal model attribute.\n\nDo not change this setting if you are unsure!
+msgstr 内部模型属性。\n\n如果您不确定，请勿更改此设置！
+
+msgid Selects the frequency margins to slice the chunks from.\n\n? The recommended margin size is 44100.\n? Other values can give unpredictable results.\n? The range is 0-100.
+msgstr 选择频率边界来切割块。\n\n？推荐的边界大小是44100。\n？其他值可能会产生不可预测的结果。\n？范围是0-100。
+
+msgid Stem Selections:\n\n? Vocals/伴奏 - The primary stem will be the vocals and the secondary stem will be the instrumental\n\n? 四音轨合奏 - This option will gather all the 4 stem Demucs models and ensemble all of the outputs.
+msgstr 音轨选择：\n\n？声乐/伴奏 - 主要音轨将是声乐，次要音轨将是伴奏\n\n？四音轨合奏 - 此选项将收集所有4个音轨Demucs模型并将所有输出合奏。
+
+msgid result, eliminating more unwanted artifacts. However, the result might also sound 'muddy') and lack a fuller sound.\n\n**Only compatible with select models only!**\n\nSetting should match training crop-size value. Leave as is if unsure.\n\n? The higher number of shifts, the longer the prediction will take.\n- Not recommended unless you have a GPU.\n\n? Enables \Chunks\.\n? We recommend you not enable this option with \Split Mode\ enabled or with the Demucs v4 Models.\n\n? Enables \Chunks\.\n? Using this option for MDX-Net no longer effects RAM usage.\n\n? Having this enabled will effect output quality, for better or worse depending on the set value.\n\n? Enables \Segments\.\n? We recommend you not enable this option with \Enable Chunks\.\n\n? This option removes a majority of the noise generated by the MDX-Net models.\n? The conversion will take nearly twice as long with this enabled.\n? This option may produce a better secondary stem.\n? Inverts primary stem with mixture using spectragrams instead of waveforms.\n? This inversion method is slightly slower.\n? This option may improve separations for outputs from 4-stem models.\n? Might produce more noise.\n? This option might slow down separation time.
+msgstr 结果，消除了更多不需要的伪音。然而，结果可能听起来较为混乱，缺乏更丰满的声音。\n\n**仅与特定型号兼容！**\n\n设置应与训练裁剪大小值匹配。如果不确定，请保持原样。\n\n？移动次数越多，预测时间越长。\n- 不推荐，除非您有GPU。\n\n？启用“块”。\n？我们建议您不要在启用“分割模式”或Demucs v4模型时启用此选项。\n\n？启用“块”。\n？对于MDX-Net，使用此选项不再影响RAM使用。\n\n？启用此选项将影响输出质量，可能会更好或更差，取决于设置的值。\n\n？启用“段”。\n？我们建议您不要在启用“块”时启用此选项。\n\n？此选项去除了MDX-Net模型产生的大部分噪音。\n？启用此选项将使转换时间几乎增加一倍。\n？此选项可能产生更好的次要音轨。\n？使用频谱图而不是波形倒转主音轨和混音。\n？此倒转方法稍慢。\n？此选项可能改善4音轨模型输出的分离效果。\n？可能产生更多噪音。\n？此选项可能会减慢分离时间。
+
+msgid The application will accept any input when enabled, even if it does not have an audio format extension.\n\nThis is for experimental purposes, and having it enabled is not recommended.\n\n? Example:
+msgstr 启用后，应用程序将接受任何输入，即使它没有音频格式扩展名。\n\n这是用于实验目的，不建议启用。\n\n？示例：
+
+msgid Choose the appropriate volume compensation for the selected model\n\nReminder: \通过补偿主要音轨的音频，使次要音轨更好。\
+msgstr 选择适合所选模型的音量补偿\n\n提醒：\通过补偿主要音轨的音频，使次要音轨更好。\
+
+msgid Select saved ensemble or save current ensemble.\n\nDefault Selections:\n\n? Save the current ensemble.\n? Clears all current model selections.
+msgstr 选择保存的合奏或保存当前合奏。\n\n默认选择：\n\n？保存当前合奏。\n？清除所有当前模型选择。
+
+msgid Each process method comes with its own set of options and models.\n\nHere is where you choose the model associated with the selected process method.\n\nThe application will run an inference with the selected model above, pulling only the instrumental stem when enabled.\nFrom there, all of the non-vocal stems will be pulled from the generated instrumental.\n\nNotes:\n\n\注意：\n？更高的值可能会去除更多的伪音，但可能会增加混音。\? Lower values limit artifact removal.
+msgstr 每个处理方法都有自己的选项和模型。\n\n在这里，您可以选择与所选处理方法相关联的模型。\n\n应用程序将使用上面选择的模型运行推断，仅在启用时提取伴奏音轨。\n然后，所有非声乐音轨将从生成的伴奏音轨中提取出来。\n\n备注：\n\n\注意：\n？更高的值可能会去除更多的伪音，但可能会增加混音。\?较低的值会限制伪音去除。
+
+msgid There is not enough storage on the main drive to continue. Your main drive must have at least 3 GB of storage to properly function with this application.\n\nPlease ensure your main drive has at least 3 GB of storage and try again.
+msgstr 主驱动器上的存储空间不足，无法继续。您的主驱动器必须至少有3 GB的存储空间才能正常运行此应用程序。\n\n请确保您的主驱动器至少有3 GB的存储空间，然后重试。
+
+msgid Your main drive is running low on storage. Your main drive must have at least 3 GB of storage to properly function with this application.
+msgstr 您的主驱动器存储空间不足。您的主驱动器必须至少有3 GB的存储空间才能正常运行此应用程序。
+
+msgid Active Download\nPlease stop the download or wait for it to complete before you exit.
+msgstr 正在下载中\n请在退出之前停止下载或等待下载完成。
+
+msgid All application settings will be set to factory default.\n\nAre you sure you wish to continue?
+msgstr 所有应用程序设置将恢复
+
+msgid All application settings will be set to factory default.\n\nAre you sure you wish to continue?
+msgstr 所有应用程序设置将恢复为出厂默认设置。\n\n您确定要继续吗？
+
+msgid Running inference (secondary model)...\nDone!
+msgstr 正在运行推断（次要模型）...\n完成！
+
+msgid SEMITONES
+msgstr 半音
+
+msgid Wind Inst
+msgstr 吹奏乐器
+
+msgid 1. Only letters, numbers, spaces, and dashes allowed.\n2. No dashes or spaces at the start or end of input.
+msgstr 1. 只允许字母、数字、空格和破折号。\n2. 输入不能以破折号或空格开头或结尾。
+
+msgid Stem Selections:\n\n? Vocals/\伴奏\ - The primary stem will be the vocals and the secondary stem will be the the instrumental
+msgstr 音轨选择：\n\n？声乐/\伴奏\-主要音轨将是声乐，次要音轨将是伴奏
+
+msgid ? \四音轨合奏\ - This option will gather all the 4 stem Demucs models and ensemble all of the outputs.
+msgstr ？\四音轨合奏\-此选项将收集所有4音轨Demucs模型并合奏所有输出。
+
+msgid Allows the user to select the ensemble algorithm to be used to generate the final output.\n\nExample & Other Note:\n\n? Only a single algorithm will be shown when the '4 Stem Ensemble') option is chosen.
+msgstr 允许用户选择用于生成最终输出的合奏算法。\n\n示例和其他说明：\n\n？选择\四音轨合奏\选项时，只会显示一个算法。
+
+msgid Algorithm Details:\n\n? Max Spec - This algorithm combines the final results and generates the highest possible output from them.\nFor example, if this algorithm were processing vocal stems, you would get the fullest possible\n\nresult making the ensembled vocal stem sound cleaner. However, it might result in more unwanted artifacts.\n\n? Min Spec - This algorithm combines the results and generates the lowest possible output from them.\nFor example, if this algorithm were processing instrumental stems, you would get the cleanest possible result\n\nresult, eliminating more unwanted artifacts. However, the result might also sound 'muddy') and lack a fuller sound.\n\n**Only compatible with select models only!**\n\nSetting should match training crop-size value. Leave as is if unsure.
+msgstr 算法详情：\n\n？最大规格-此算法将最终结果组合在一起，从中生成可能的最高输出。\n例如，如果此算法正在处理声乐音轨，您将得到最完整的\n\n结果，使合奏的声乐音轨听起来更干净。但可能会产生更多的不需要的伪音。\n\n？最小规格-此算法将结果组合在一起，并从中生成可能的最低输出。\n例如，如果此算法正在处理乐器音轨，您将得到最干净的结果\n\n结果，消除更多不需要的伪音。但是，结果可能听起来较为混乱，缺乏更丰满的声音。\n\n**仅与特定型号兼容！**\n\n设置应与训练裁剪大小值匹配。如果不确定，请保持原样。
+
+msgid The higher number of shifts, the longer the prediction will take.\n- Not recommended unless you have a GPU.\n\n? Enables \Chunks\.\n? We recommend you not enable this option with \Split Mode\ enabled or with the Demucs v4 Models.\n? Enables \Chunks\.\n? Using this option for MDX-Net no longer effects RAM usage.\n? Having this enabled will effect output quality, for better or worse depending on the set value.\n? Enables \Segments\.\n? We recommend you not enable this option with \Enable Chunks\.
+msgstr 较多的位移次数，预测所需的时间将更长。\n- 不建议在没有GPU的情况下启用。\n\n？启用\块\。\n？我们建议您不要在启用\拆分模式\或使用Demucs v4模型时启用此选项。\n？启用\块\。\n？使用此选项不再影响MDX-Net的RAM使用。\n？启用此选项将影响输出质量，好坏取决于设置值。\n？启用\分段\。\n？我们建议您不要在启用\启用块\时启用此选项。
+
+msgid This option removes a majority of the noise generated by the MDX-Net models.\n? The conversion will take nearly twice as long with this enabled.\n? This option may produce a better secondary stem.\n? Inverts primary stem with mixture using spectragrams instead of wavforms.\n? This inversion method is slightly slower.\n? This option may improve separations for outputs from 4-stem models.\n? Might produce more noise.\n? This option might slow down separation time.
+msgstr 此选项可以消除MDX-Net模型产生的大部分噪音。\n？启用此选项会使转换时间几乎增加一倍。\n？此选项可能会产生更好的次要音轨。\n？使用频谱图而不是波形图将主要音轨与混音进行反转。\n？这种反转方法稍慢。\n？此选项可能改善4音轨模型的分离效果。\n？可能产生更多噪音。\n？此选项可能会减慢分离时间。
+
+msgid Each process method comes with its own set of options and models.\n\nHere is where you choose the model associated with the selected process method.\nThe application will run an inference with the selected model above, pulling only the instrumental stem when enabled.\nFrom there, all of the non-vocal stems will be pulled from the generated instrumental.
+msgstr 每个处理方法都配备了一套自己的选项和模型。\n\n在这里，您可以选择与所选处理方法相关联的模型。\n应用程序将使用上面选择的模型进行推断，仅在启用时拉取伴奏音轨。\n然后，所有非声乐音轨将从生成的伴奏音轨中提取。
+
+msgid Notes:\n\n\注意：\n? 更高的值可能会去除更多的伪音，但可能会增加混音。\? Lower values limit artifact removal.
+msgstr 注意：\n\n\注意：\n？更高的值可能会去除更多的伪音，但可能会增加混音。\？较低的值会限制伪音去除。
+
+msgid Please ensure your main drive has at least 3 GB's of storage and try again.
+msgstr 请确保您的主驱动器至少有3GB的存储空间，然后重试。
+
+msgid Your main drive is running low on storage. Your main drive must have at least 3 GB's of storage in order for this application function properly.
+msgstr 您的主驱动器存储空间不足。您的主驱动器必须至少有3GB的存储空间，以使此应用程序正常运行。
+
+msgid Running inference (secondary model)...\nDone!\n\nDone!
+msgstr 正在运行推断（辅助模型）...完成！\n\n完成！
+
+msgid SEMITONES
+msgstr 半音
+
+msgid VR Arc
+msgstr VR架构
+
+msgid MDX-Net
+msgstr MDX网络
+
+msgid Demucs
+msgstr Demucs
+
+msgid VR Architecture
+msgstr VR架构
+
+msgid Ensemble Mode
+msgstr 集成模式
+
+msgid Ensemble Stem
+msgstr 集成音轨
+
+msgid Secondary Model
+msgstr Secondary辅助模型
+
+msgid htdemucs_6s
+msgstr htdemucs_6s
+
+msgid Demucs v3'
+msgstr Demucs v3
+
+msgid Demucs v4
+msgstr Demucs v4
+
+msgid Sample Mode
+msgstr 样本模式
+
+msgid Invalid command
+msgstr 无效命令
